@@ -1,0 +1,16 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-linejoin="round" stroke-linecap="round" stroke="#000000" fill="#00a1ff" id="svg_1" y="2.515372" x="2.56209" width="26.8758" rx="9" height="26.8758" class="a"/>
+  <rect stroke="#000000" stroke-linejoin="round" stroke-linecap="round" fill="#ffff56" id="svg_2" y="6.05789" x="6.619738" width="5.9724" rx="2" height="19.884221" class="a"/>
+  <rect stroke="#000000" transform="rotate(-78 18.45930480957031,8.151398658752441) " stroke-linejoin="round" stroke-linecap="round" fill="#56ffe8" id="svg_3" y="3.604645" x="16.534059" width="3.850489" rx="2" height="9.093508" class="a"/>
+  <rect stroke="#000000" transform="rotate(-100 18.459306716918945,23.711986541748047) " stroke-linejoin="round" stroke-linecap="round" fill="#56ffe8" id="svg_5" y="19.165234" x="16.534059" width="3.850489" rx="2" height="9.093508" class="a"/>
+  <rect stroke="#000000" stroke-linejoin="round" stroke-linecap="round" fill="#ffff56" id="svg_6" y="6.99246" x="19.750445" width="3.308876" rx="2" height="5.772214" class="a"/>
+  <rect stroke="#000000" stroke-linejoin="round" stroke-linecap="round" fill="#ffff56" id="svg_7" y="18.954955" x="19.750445" width="3.308876" rx="2" height="5.772214" class="a"/>
+ </g>
+</svg>
